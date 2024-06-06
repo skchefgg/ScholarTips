@@ -1,0 +1,102 @@
+[
+    {
+        "bankName": "State Bank of India",
+        "interestRate": "7.30% - 9.45%",
+        "officialWebsite": "https://sbi.co.in/"
+    },
+    {
+        "bankName": "HDFC Bank",
+        "interestRate": "9.75% - 13.45%",
+        "officialWebsite": "https://www.hdfcbank.com/"
+    },
+    {
+        "bankName": "ICICI Bank",
+        "interestRate": "8.60% - 11.75%",
+        "officialWebsite": "https://www.icicibank.com/"
+    },
+    {
+        "bankName": "Axis Bank",
+        "interestRate": "9.00% - 11.50%",
+        "officialWebsite": "https://www.axisbank.com/"
+    },
+    {
+        "bankName": "Punjab National Bank",
+        "interestRate": "7.95% - 9.50%",
+        "officialWebsite": "https://www.pnbindia.in/"
+    },
+    {
+        "bankName": "Bank of Baroda",
+        "interestRate": "6.85% - 8.25%",
+        "officialWebsite": "https://www.bankofbaroda.in/"
+    },
+    {
+        "bankName": "Canara Bank",
+        "interestRate": "6.90% - 8.90%",
+        "officialWebsite": "https://www.canarabank.in/"
+    },
+    {
+        "bankName": "Union Bank of India",
+        "interestRate": "7.50% - 9.50%",
+        "officialWebsite": "https://www.unionbankofindia.co.in/"
+    },
+    {
+        "bankName": "IDBI Bank",
+        "interestRate": "8.25% - 9.25%",
+        "officialWebsite": "https://www.idbibank.in/"
+    },
+    {
+        "bankName": "Bank of India",
+        "interestRate": "6.85% - 8.20%",
+        "officialWebsite": "https://www.bankofindia.co.in/"
+    },
+    {
+        "bankName": "Indian Bank",
+        "interestRate": "7.15% - 8.85%",
+        "officialWebsite": "https://www.indianbank.in/"
+    },
+    {
+        "bankName": "Central Bank of India",
+        "interestRate": "6.85% - 8.25%",
+        "officialWebsite": "https://www.centralbankofindia.co.in/"
+    },
+    {
+        "bankName": "Bank of Maharashtra",
+        "interestRate": "6.90% - 8.40%",
+        "officialWebsite": "https://www.bankofmaharashtra.in/"
+    },
+    {
+        "bankName": "UCO Bank",
+        "interestRate": "6.90% - 8.55%",
+        "officialWebsite": "https://www.ucobank.com/"
+    },
+    {
+        "bankName": "Indian Overseas Bank",
+        "interestRate": "6.85% - 8.70%",
+        "officialWebsite": "https://www.iob.in/"
+    },
+    {
+        "bankName": "Syndicate Bank",
+        "interestRate": "6.85% - 9.25%",
+        "officialWebsite": "https://www.syndicatebank.in/"
+    },
+    {
+        "bankName": "Andhra Bank",
+        "interestRate": "6.85% - 9.10%",
+        "officialWebsite": "https://www.andhrabank.in/"
+    },
+    {
+        "bankName": "Corporation Bank",
+        "interestRate": "6.90% - 8.95%",
+        "officialWebsite": "https://www.corpbank.com/"
+    },
+    {
+        "bankName": "Dena Bank",
+        "interestRate": "6.85% - 8.70%",
+        "officialWebsite": "https://www.denabank.co.in/"
+    },
+    {
+        "bankName": "United Bank of India",
+        "interestRate": "7.00% - 8.95%",
+        "officialWebsite": "https://www.unitedbankofindia.com/"
+    }
+]
